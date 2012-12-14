@@ -1,0 +1,5 @@
+(custom-set-variables
+ '(show-paren-mode t))
+(custom-set-faces)
+
+
